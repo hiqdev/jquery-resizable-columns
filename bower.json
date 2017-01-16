@@ -1,8 +1,8 @@
 {
-  "name": "jquery-resizable-columns",
+  "name": "hiqdev-jquery-resizable-columns",
   "main": "dist/jquery.resizableColumns.min.js",
-  "version": "0.2.3",
-  "homepage": "http://dobtco.github.io/jquery-resizable-columns/",
+  "version": "2.2.4",
+  "homepage": "https://github.com/hiqdev/jquery-resizable-columns",
   "authors": [
     "Adam Becker <ad@mbecker.cc> (http://ada.mbecker.cc)",
     "Craig Michael Thompson <craig@craigsworks.com> (http://craigsworks.com)"
@@ -31,6 +31,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^1.9.0"
+    "jquery": "^1.9.0 || ^2.0 || ^3.0"
   }
 }
