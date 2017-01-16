@@ -7,6 +7,12 @@ Resizable table columns for jQuery. **[Live Demo](http://dobtco.github.io/jquery
 
 **Size:** < 8kb minified
 
+## Reasons for making this fork
+
+- jQuery version constraint in original [bower.json](https://github.com/dobtco/jquery-resizable-columns/blob/v0.2.3/bower.json#L34) is too strict and does not allow
+version 2.0, that works correctly with this plugin
+- The original repository seems to be abandoned
+
 #### Dependencies
 - jQuery
 - [store.js](https://github.com/marcuswestin/store.js/) (or anything similar) for localStorage persistence.

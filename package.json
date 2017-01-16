@@ -1,14 +1,14 @@
 {
-  "name": "jquery-resizable-columns",
+  "name": "hiqdev-jquery-resizable-columns",
   "title": "jQuery Resizable Columns",
   "description": "Resizable table columns for jQuery",
-  "version": "0.2.3",
+  "version": "2.2.4",
   "author": "Adam Becker <ad@mbecker.cc> (http://ada.mbecker.cc)",
-  "homepage": "http://dobtco.github.io/jquery-resizable-columns/",
+  "homepage": "https://github.com/hiqdev/jquery-resizable-columns",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dobtco/jquery-resizable-columns.git"
+    "url": "git://github.com/hiqdeev/jquery-resizable-columns.git"
   },
   "bugs": {
     "url": "http://github.com/dobtco/jquery-resizable-columns/issues"
